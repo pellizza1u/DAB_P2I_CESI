@@ -1,0 +1,62 @@
+# Fichiers et dossiers de build
+bin/
+obj/
+
+# Fichiers du projet
+*.csproj.user
+*.csproj.nuget.cache
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+*.tlog
+*.vscode/*
+*.swp
+
+# Fichiers spécifiques à macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Thumbs.db
+Thumbs.db
+
+# Fichiers générés par Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.psess
+*.vsp
+*.tmp
+*.cache
+*.pdb
+
+# Fichiers spécifiques à NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Fichiers de déploiement
+publish/
+logs/
+artifacts/
+
+# Fichiers de test et de couverture de code
+TestResults/
+*.trx
+*.coverage
+*.coverlet
+
+# Cache de Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Fichiers spécifiques à Xcode/MonoDevelop
+*.pidb
+*.pidb.*
