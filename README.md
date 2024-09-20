@@ -23,7 +23,7 @@ Ce projet consiste en la création d'un Distributeur Automatique de Billets (DAB
 
 1. Clonez le dépôt Git localement :
    ```bash
-   git clone [https://github.com/pellizza1u/DAB_Project.git](https://github.com/pellizza1u/DAB_P2I_CESI.git)
+   git clone https://github.com/pellizza1u/DAB_P2I_CESI.git
    ```
 
 2. Accédez au répertoire du projet :
